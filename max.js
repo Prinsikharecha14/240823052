@@ -1,6 +1,9 @@
-let a = 19;
-let b = 20;
+let a = 5;
+let b = 9;
 
-if(a<b){
-    console.log("min number")
+if(a>b){
+    console.log("5")
 } 
+else{
+    console.log("9")
+}
