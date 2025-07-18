@@ -7,5 +7,5 @@ function isPalindrome(num) {
     }
   }
   
-  isPalindrome(11);
+  isPalindrome(121);
   
